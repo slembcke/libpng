@@ -17,7 +17,6 @@
 		D331FBB11ADB747F0013FFBE /* pngrtran.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FB9C1ADB747F0013FFBE /* pngrtran.c */; };
 		D331FBB21ADB747F0013FFBE /* pngrutil.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FB9D1ADB747F0013FFBE /* pngrutil.c */; };
 		D331FBB31ADB747F0013FFBE /* pngset.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FB9E1ADB747F0013FFBE /* pngset.c */; };
-		D331FBB41ADB747F0013FFBE /* pngtest.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FBA01ADB747F0013FFBE /* pngtest.c */; };
 		D331FBB51ADB747F0013FFBE /* pngtrans.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FBA11ADB747F0013FFBE /* pngtrans.c */; };
 		D331FBB61ADB747F0013FFBE /* pngwio.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FBA21ADB747F0013FFBE /* pngwio.c */; };
 		D331FBB71ADB747F0013FFBE /* pngwrite.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FBA31ADB747F0013FFBE /* pngwrite.c */; };
@@ -29,7 +28,6 @@
 		D331FC271ADB82B20013FFBE /* pngread.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FB9A1ADB747F0013FFBE /* pngread.c */; };
 		D331FC281ADB82B20013FFBE /* pngget.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FB951ADB747F0013FFBE /* pngget.c */; };
 		D331FC291ADB82B20013FFBE /* pngrutil.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FB9D1ADB747F0013FFBE /* pngrutil.c */; };
-		D331FC2A1ADB82B20013FFBE /* pngtest.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FBA01ADB747F0013FFBE /* pngtest.c */; };
 		D331FC2B1ADB82B20013FFBE /* pngwtran.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FBA41ADB747F0013FFBE /* pngwtran.c */; };
 		D331FC2C1ADB82B20013FFBE /* pngwio.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FBA21ADB747F0013FFBE /* pngwio.c */; };
 		D331FC2D1ADB82B20013FFBE /* png.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FB901ADB747F0013FFBE /* png.c */; };
@@ -46,7 +44,6 @@
 		D331FC701ADB97FE0013FFBE /* pngread.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FB9A1ADB747F0013FFBE /* pngread.c */; };
 		D331FC711ADB97FE0013FFBE /* pngget.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FB951ADB747F0013FFBE /* pngget.c */; };
 		D331FC721ADB97FE0013FFBE /* pngrutil.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FB9D1ADB747F0013FFBE /* pngrutil.c */; };
-		D331FC731ADB97FE0013FFBE /* pngtest.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FBA01ADB747F0013FFBE /* pngtest.c */; };
 		D331FC741ADB97FE0013FFBE /* pngwtran.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FBA41ADB747F0013FFBE /* pngwtran.c */; };
 		D331FC751ADB97FE0013FFBE /* pngwio.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FBA21ADB747F0013FFBE /* pngwio.c */; };
 		D331FC761ADB97FE0013FFBE /* png.c in Sources */ = {isa = PBXBuildFile; fileRef = D331FB901ADB747F0013FFBE /* png.c */; };
@@ -309,7 +306,6 @@
 				D331FBAF1ADB747F0013FFBE /* pngread.c in Sources */,
 				D331FBAC1ADB747F0013FFBE /* pngget.c in Sources */,
 				D331FBB21ADB747F0013FFBE /* pngrutil.c in Sources */,
-				D331FBB41ADB747F0013FFBE /* pngtest.c in Sources */,
 				D331FBB81ADB747F0013FFBE /* pngwtran.c in Sources */,
 				D331FBB61ADB747F0013FFBE /* pngwio.c in Sources */,
 				D331FBAA1ADB747F0013FFBE /* png.c in Sources */,
@@ -332,7 +328,6 @@
 				D331FC271ADB82B20013FFBE /* pngread.c in Sources */,
 				D331FC281ADB82B20013FFBE /* pngget.c in Sources */,
 				D331FC291ADB82B20013FFBE /* pngrutil.c in Sources */,
-				D331FC2A1ADB82B20013FFBE /* pngtest.c in Sources */,
 				D331FC2B1ADB82B20013FFBE /* pngwtran.c in Sources */,
 				D331FC2C1ADB82B20013FFBE /* pngwio.c in Sources */,
 				D331FC2D1ADB82B20013FFBE /* png.c in Sources */,
@@ -356,7 +351,6 @@
 				D331FC701ADB97FE0013FFBE /* pngread.c in Sources */,
 				D331FC711ADB97FE0013FFBE /* pngget.c in Sources */,
 				D331FC721ADB97FE0013FFBE /* pngrutil.c in Sources */,
-				D331FC731ADB97FE0013FFBE /* pngtest.c in Sources */,
 				D331FC741ADB97FE0013FFBE /* pngwtran.c in Sources */,
 				D331FC751ADB97FE0013FFBE /* pngwio.c in Sources */,
 				D331FC761ADB97FE0013FFBE /* png.c in Sources */,
